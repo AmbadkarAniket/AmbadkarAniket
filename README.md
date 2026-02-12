@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm aniket ambadkar</h1>
+<h1 align="center">Hi 👋, I'm Aniket Ambadkar</h1>
 <h3 align="center">I am Aniket Ambadkar, a Full Stack Developer exploring AI, ML, and Data Science to build intelligent solutions.</h3>
 
 - 🌱 I’m currently learning **AI learning with Python and other AI tech stacks, along with modern AI tools.**
